@@ -1,0 +1,51 @@
+/* indeex.html page*/
+
+.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+    background-color: rgb(71, 107, 83);
+    
+}
+#navbarNav {
+    font-family:'Times New Roman', Times, serif;
+    float:right;
+
+}
+.col-sm-7 h1 {
+    background-color:white;
+    color:rgb(71, 107, 83);
+    font-weight: bold;
+    font-family:'Times New Romans', Times, serif;
+    padding: 30px, 20px, 10px, 20px;
+    margin: 20px;
+    
+}
+/*Self portrait*/
+.port {
+    max-width: 150px;
+    max-height: 150px;
+    float: left;
+    margin:10px;
+
+}
+p {
+    margin: 20px;
+    padding: 10px;
+
+}
+
+.col-sm-7 {
+    border: 5px solid grey;
+    background-color:white;
+    position:static;
+    margin: 20px;
+    box-sizing: width 800px;
+    float:left;
+}
+img {
+    width: 350px;
+    height: 350px;
+    padding: 20px;
+    margin:20px;
+    display: inline-block;
+}
